@@ -105,6 +105,6 @@ if __name__ == "__main__":
     auto_commit()
 ```
 
-## 4. 在 vscode 中開啟 git 專案
+## 4. 在 VSCode 中開啟 git 專案
 
-在 `.vscode` 中使用功能快捷(Ctrl + Shift + p)，輸入 "Run Task" 後進入並選擇 "Auto Commit Message" 執行即可。
+在 VSCode 編輯器中使用功能快捷(Ctrl + Shift + p)，輸入 "Run Task" 後進入並選擇 "Auto Commit Message" 執行即可。
